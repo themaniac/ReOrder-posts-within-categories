@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReOrder Posts Within Category v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-07 23:14+0530\n"
+"PO-Revision-Date: 2019-01-17 16:42+0100\n"
+"Last-Translator: Chap <nanao@yopmail.com>\n"
+"Language-Team: Deefuse <aurelien.chappard@deefuse.fr>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ reorder-post-within-categories
+#: reorder-posts-within-categories.php:74
+#: reorder-posts-within-categories.php:605
+#, php-format
+msgid "Tri des articles de type \"%s\""
+msgstr "Ordina elementi come \"%s\""
+
+#: reorder-posts-within-categories.php:607
+#, php-format
+msgid "Sélectionner une catégorie pour trier les articles de type <b>%s</b>. "
+msgstr "Seleziona una categoria per ordinare gli articoli di tipo <b>%s</b>. "
+
+#: reorder-posts-within-categories.php:668
+msgid "Utiliser le tri manuel pour cette catégorie ?"
+msgstr "Utilizzare l'ordinamento manuale per questa categoria?"
+
+#: reorder-posts-within-categories.php:681
+msgid "Oui"
+msgstr "Si"
+
+#: reorder-posts-within-categories.php:682
+msgid "Non"
+msgstr "No"
+
+#: reorder-posts-within-categories.php:687
+#, php-format
+msgid "Listes des articles de type \"%s\", classé dans la catégorie \"%s\" :"
+msgstr "Elenchi di post \"%s\" classificati \"%s\":"
+
+#: reorder-posts-within-categories.php:736
+msgid "Options enregistrées."
+msgstr "Opzioni salvate."
+
+# @ reorder-post-within-categories
+#: reorder-posts-within-categories.php:736
+#: reorder-posts-within-categories.php:743
+msgid "Trie des articles d'une catégorie"
+msgstr "Riordina i post nella categoria"
+
+#: reorder-posts-within-categories.php:746
+msgid "Cocher les catégories dont vous voulez trier manuellement les articles. Une fois que vous aurez coché et validé ces informations, un nouveau menu apparaîtra dans chaque type de post concerné."
+msgstr "Seleziona le categorie che vuoi ordinare manualmente. Dopo aver controllato e confermato queste informazioni, verrà visualizzato un nuovo menu per ogni tipo di post interessato."
+
+#: reorder-posts-within-categories.php:747
+msgid "Types d'articles disponibles :"
+msgstr "Post Type disponibili:"
+
+#: reorder-posts-within-categories.php:778
+msgid "Autoriser le tri pour les catégories cochées"
+msgstr "Consenti l'ordinamento per le categorie selezionate"
+
+#: reorder-posts-within-categories.php:792
+msgid "ReOrder Post within Categories"
+msgstr "Riordina Post all'interno di Categorie"
+
+#: reorder-posts-within-categories.php:792
+msgid "ReOrder Post"
+msgstr "Riordina Post"
+
+#: reorder-posts-within-categories.php:801
+msgid "Paramètres"
+msgstr "Impostazioni"
+
+msgid "Ce plugin permet de trier les articles (post) et les Custom Post Type au sein d'une même catégorie (ou d'une même taxonomie) via une interface intuitive de glissé-déposé."
+msgstr "Questo plugin consente di ordinare manualmente i post (ordinati) entro un determinato termine di tassonomia."
